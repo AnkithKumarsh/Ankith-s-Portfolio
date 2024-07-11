@@ -926,12 +926,12 @@ section .container {
   padding: 0;
   color: #fff;
   line-height: 24px;
-  font-size: 14px;
+  font-size: 10px;
   margin: 0 0 0 68px;
 }
 
 .contact .info-box .social-links {
-  margin: 5px 0 0 68px;
+  margin: 5px 0 0 57px;
   display: flex;
 }
 
@@ -940,7 +940,7 @@ section .container {
   display: inline-block;
   color: #fff;
   line-height: 1;
-  margin-right: 12px;
+  margin-right: 10px;
   transition: 0.3s;
 }
 
